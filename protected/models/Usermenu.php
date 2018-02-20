@@ -52,7 +52,7 @@ class Usermenu extends CActiveRecord
 	{
 		return array(
 			'id' => 'ID',
-			'pos' => 'Позиция',
+			'pos' => 'Position',
 			'activ' => 'Активность',
 			'lang_key' => 'Имя для гостей',
 			'url' => 'URL для гостей',
